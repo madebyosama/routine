@@ -4,13 +4,207 @@ import * as color from '@/constants/itemcolor.cons';
 export const config: ConfigType = {
   name: 'Daily Routine',
   quotes: [
-    // {
-    //   quote:
-    //     "Motivation is what gets you started. Habit is what keeps you going",
-    //   author: "Aristotle",
-    // },
+    {
+      quote: 'Talk less. Do more.',
+      author: 'Unknown',
+    },
+    {
+      quote: 'Excuses don’t build empires.',
+      author: 'Unknown',
+    },
+    {
+      quote: 'Discipline beats motivation.',
+      author: 'Unknown',
+    },
+    {
+      quote: 'You’re not tired. You’re uninspired.',
+      author: 'Unknown',
+    },
+    {
+      quote: 'Nobody cares. Work harder.',
+      author: 'Unknown',
+    },
+    {
+      quote: 'Success doesn’t take talent. It takes consistency.',
+      author: 'Unknown',
+    },
+    {
+      quote: 'If it matters, you’ll make time.',
+      author: 'Unknown',
+    },
+    {
+      quote: 'Comfort kills ambition.',
+      author: 'Unknown',
+    },
+    {
+      quote: 'Don’t be busy. Be productive.',
+      author: 'Unknown',
+    },
+    {
+      quote: 'Hard truth: It’s your fault.',
+      author: 'Unknown',
+    },
+    {
+      quote: 'Winners bleed, then win.',
+      author: 'Unknown',
+    },
+    {
+      quote: 'You’re not stuck. You’re scared.',
+      author: 'Unknown',
+    },
+    {
+      quote: 'Money listens to focus.',
+      author: 'Unknown',
+    },
+    {
+      quote: 'Your potential is dying in your excuses.',
+      author: 'Unknown',
+    },
+    {
+      quote: 'Start before you’re ready.',
+      author: 'Unknown',
+    },
+    {
+      quote: 'Being broke is hard. Hustling is harder. Choose.',
+      author: 'Unknown',
+    },
+    {
+      quote: 'No plan works if you don’t.',
+      author: 'Unknown',
+    },
+    {
+      quote: 'Want respect? Earn it.',
+      author: 'Unknown',
+    },
+    {
+      quote: "Success is rented. Rent's due daily.",
+      author: 'Unknown',
+    },
+    {
+      quote: 'Fear is a liar. Act anyway.',
+      author: 'Unknown',
+    },
+    {
+      quote: 'Hustle in silence. Let success shout.',
+      author: 'Unknown',
+    },
+    {
+      quote: 'Effort exposes pretenders.',
+      author: 'Unknown',
+    },
+    {
+      quote: 'You don’t need more time. You need less bullshit.',
+      author: 'Unknown',
+    },
+    {
+      quote: 'You won’t outgrow what you tolerate.',
+      author: 'Unknown',
+    },
+    {
+      quote: 'Comfort is a drug. Stay clean.',
+      author: 'Unknown',
+    },
+    {
+      quote: 'Stop whining. Start working.',
+      author: 'Unknown',
+    },
+    {
+      quote: 'You can’t Netflix your way to success.',
+      author: 'Unknown',
+    },
+    {
+      quote: 'Being average is a choice.',
+      author: 'Unknown',
+    },
+    {
+      quote: 'Do it tired. Do it scared. Just do it.',
+      author: 'Unknown',
+    },
+    {
+      quote: 'Nothing changes if nothing changes.',
+      author: 'Unknown',
+    },
+    {
+      quote: 'Your habits write your future.',
+      author: 'Unknown',
+    },
+    {
+      quote: 'Growth feels like breaking.',
+      author: 'Unknown',
+    },
+    {
+      quote: 'Be obsessed or be forgotten.',
+      author: 'Unknown',
+    },
+    {
+      quote: 'They doubted you? Good. Prove them right to fear you.',
+      author: 'Unknown',
+    },
+    {
+      quote: 'Nobody owes you shit.',
+      author: 'Unknown',
+    },
+    {
+      quote: 'You don’t need a new goal. You need discipline.',
+      author: 'Unknown',
+    },
+    {
+      quote: 'You’re one decision away from a new life.',
+      author: 'Unknown',
+    },
+    {
+      quote: 'Dreams are free. Execution costs.',
+      author: 'Unknown',
+    },
+    {
+      quote: 'Repetition builds reputation.',
+      author: 'Unknown',
+    },
+    {
+      quote: 'You’re not overwhelmed. You’re undisciplined.',
+      author: 'Unknown',
+    },
+    {
+      quote: 'Starve your distractions. Feed your goals.',
+      author: 'Unknown',
+    },
+    {
+      quote: 'Stop scrolling. Start building.',
+      author: 'Unknown',
+    },
+    {
+      quote: 'Ambition without action is fantasy.',
+      author: 'Unknown',
+    },
+    {
+      quote: 'If you quit now, you’ll be right back where you started.',
+      author: 'Unknown',
+    },
+    {
+      quote: 'Haters are just confused fans.',
+      author: 'Unknown',
+    },
+    {
+      quote: 'Get shit done. Feel better later.',
+      author: 'Unknown',
+    },
+    {
+      quote: 'Don’t fear failure. Fear regret.',
+      author: 'Unknown',
+    },
+    {
+      quote: 'It’s not too late. You’re just too slow.',
+      author: 'Unknown',
+    },
+    {
+      quote: 'Success is quiet. So is failure.',
+      author: 'Unknown',
+    },
+    {
+      quote: 'You want better? Be better.',
+      author: 'Unknown',
+    },
   ],
-
   timetable: [
     {
       name: 'Sleep',
